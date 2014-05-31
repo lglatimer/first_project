@@ -1,4 +1,4 @@
-first_project
+First Django Project
 =============
 
 First Django test application
