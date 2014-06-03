@@ -10,8 +10,8 @@ if __name__ == "__main__":
     execute_from_command_line(sys.argv)
 
 # For PyMySql
-try:
-		import pymysql
-		pymysql.install_as_MySQLdb()
-except ImportError:
-		pass
+#try:
+#		import pymysql
+#		pymysql.install_as_MySQLdb()
+#except ImportError:
+#		pass
